@@ -3,9 +3,9 @@
  Hey everyone 👋, I start making new game it's called "Upper Egypt Derby" talking about horse racing but in south Egyptian people style and i am still making my assets in blender and Want to share My progress. 
  
 # Don't forget to folllow me so you don't miss any future devlog.
- Youtube (Arabic) :  [![](https://img.shields.io/badge/Youtube-blue.svg)]( https://www.youtube.com/channel/UCQ2dvORH76mny930SaJbmnA)
- Youtube (English) : https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA
- Twitter : https://twitter.com/AbdullahAb77611
+ Youtube (Arabic) :  [![](https://img.shields.io/badge/Youtube-red.svg)]( https://www.youtube.com/channel/UCQ2dvORH76mny930SaJbmnA)
+ Youtube (English) :   [![](https://img.shields.io/badge/Youtube-red.svg)]( https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA)
+ Twitter :  [![](https://img.shields.io/badge/X-black.svg)](https://twitter.com/AbdullahAb77611)  
 
  ![Screenshot 2023-10-12 020629](https://github.com/Abdullah165/Upper_Egypt_Derby/assets/63372032/fe2f9f60-1e9a-48b3-8c97-fb28e3b8b640)
 ![Screenshot 2023-12-03 162314](https://github.com/Abdullah165/Upper_Egypt_Derby/assets/63372032/887f1180-dbc9-4e08-8363-b4ae399b3742)
